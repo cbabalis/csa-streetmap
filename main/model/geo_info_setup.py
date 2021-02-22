@@ -1,8 +1,8 @@
 from main.geo.geo_info import GeoInfo, init, draw_graph
 
 NODES_CSV_PATH = "main/geo/nodes.csv"
-CENTER = (53.55668, 9.92815)
-DISTANCE = 300
+CENTER = (37.995553, 23.77304) #(53.55668, 9.92815)
+DISTANCE = 30000
 NETWORK_TYPE = "drive"
 
 
